@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+flask
+firebase-admin
+langchain-google-genai
+Pillow
+requests
+numpy
